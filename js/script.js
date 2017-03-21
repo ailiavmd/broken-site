@@ -1,5 +1,5 @@
 function changeCol(col){
-    document.getElementsByTagName("body").style.background = col;
+    document.getElementById("body").style.background = col;
 }
 
 var incr = 0;
@@ -15,7 +15,5 @@ function imageSlideShow() {
         console.log(imageArray[incr] + ".jpg");
     },1000);
 }
-
-
 
 imageSlideShow();
