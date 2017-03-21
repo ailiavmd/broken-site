@@ -1,1 +1,17 @@
 /* Test*/
+#text{
+  width:20%;
+  margin:auto;
+}
+h1{
+  color:crimson;
+  text-align:center;
+}
+p{
+  text-justify: inter-word;
+  font-family: 'verdana';
+}
+button{
+  width:80px;
+  height:50px;
+}

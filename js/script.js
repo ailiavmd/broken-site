@@ -15,7 +15,7 @@ function imageSlideShow() {
         console.log(imageArray[incr] + ".jpg");
     },1000);
 }
-        
+
 
 
 imageSlideShow();
