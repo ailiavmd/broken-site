@@ -1,4 +1,7 @@
 /* Test*/
+#body{
+  transition: all 1s;
+}
 #text{
   width:20%;
   margin:auto;
